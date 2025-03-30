@@ -4,14 +4,8 @@ import base64
 from io import BytesIO
 from PIL import Image
 from fastapi import APIRouter, HTTPException
-from pydantic import BaseModel
-
 
 router = APIRouter()
-
-
-class ImageBase64(BaseModel):
-    image_base64: str
 
 
 def bradley_threshold(image_base64: str) -> str:
