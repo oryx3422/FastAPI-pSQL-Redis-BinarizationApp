@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+authx
+numpy
+opencv-python
+pillow
+sqlalchemy
+passlib
+asyncpg
+bcrypt
+email_validator
