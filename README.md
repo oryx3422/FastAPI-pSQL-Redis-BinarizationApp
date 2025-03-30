@@ -1,5 +1,6 @@
 <h1>Binarization</h1>
-<a href="https://base64.guru/converter/decode/image">decode base64</p>
+<p><a href="https://base64.guru/converter/decode/image">decode base64</p>
+<img src="./images/fastapi.png" alt="FastAPI Logo" width="400"></img>
   
 <h2>TODO:</h2>
 <ol>
