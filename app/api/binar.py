@@ -2,7 +2,8 @@ from fastapi import APIRouter, Depends, HTTPException
 from authx import AuthX
 from app.core.config import config
 
-from app.services.binar import ImageBase64, bradley_threshold
+from app.services.binar import bradley_threshold
+from app.schemas.binar import ImageBase64
 
 router = APIRouter()
 security = AuthX(config=config)
