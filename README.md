@@ -6,5 +6,6 @@
 <ol>
   <li>input/output: base64+image</li>
   <li>add front</li>
+   <li>add redis</li>
   <li>deploy to server. nginx</li>
 </ol>
