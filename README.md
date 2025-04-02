@@ -14,8 +14,7 @@
 <ol>
   <li>only containers</li>
   <li>only ssh</li>
-   <li>passwoed -> ssh connection</li>
-  <li></li>
+   <li>password -> ssh connection</li>
 </ol>
 
 
