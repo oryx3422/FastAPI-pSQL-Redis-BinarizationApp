@@ -9,3 +9,14 @@
    <li>add redis</li>
   <li>deploy to server. nginx</li>
 </ol>
+
+<h2>TODO SERVER:</h2>
+<ol>
+  <li>only containers</li>
+  <li>only ssh</li>
+   <li>passwoed -> ssh connection</li>
+  <li></li>
+</ol>
+
+
+
