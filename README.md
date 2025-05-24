@@ -1,14 +1,16 @@
-<h1>Binarization</h1>
-<p><a href="https://base64.guru/converter/decode/image">decode base64</p>
-<img src="./images/fastapi.png" alt="FastAPI Logo" width="400"></img>
-  
-<h2>TODO:</h2>
-<ol>
-  <li>input/output: base64+image</li>
-  <li>add redis</li>
-  <li>add celery</li>
-  <li>add websocket</li>
-</ol>
+# Binarization
+Проект для бинаризации изображений с использованием FastAPI.
 
+![FastAPI Logo](./images/fastapi.png)
 
+[Ссылка для декодирования base64 → изображение](https://base64.guru/converter/decode/image)
 
+## TODO:
+
+-  Input/Output: поддержка изображений
+-  Добавить Redis
+-  Добавить Celery
+-  Добавить WebSocket
+
+---
+ Инструкции по запуску будут добавлены позже.
